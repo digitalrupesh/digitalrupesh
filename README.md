@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fanalytics&psig=AOvVaw3-_A1FFOtmhbhr-PKZ8b9W&ust=1674053992209000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPis-p7vzvwCFQAAAAAdAAAAABAE)](https://rupeshportfolio.com)
+[![MasterHead](https://res.cloudinary.com/hevo/image/upload/c_scale,w_848,h_458/f_auto,q_auto/v1649663853/hevo-blog/Transformation-page-banner-3-2.gif?_i=AA)](https://rupeshportfolio.com)
 <h1 align="center">Hi 👋, I'm Rupesh Marathe</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif.">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalrupesh&label=Profile%20views&color=0e75b6&style=flat" alt="digitalrupesh" /> </p>
 
